@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "featureflag"]
+	path = featureflag
+	url = https://github.com/szymanskir/featureflag
+	shallow = true
+	registered = true
+[submodule "hackeRnews"]
+	path = hackeRnews
+	url = https://github.com/szymanskir/hackernews
+	shallow = true
+	registered = true
+[submodule "rnbp"]
+	path = rnbp
+	url = https://github.com/szymanskir/rnbp
+	shallow = true
+	registered = true
