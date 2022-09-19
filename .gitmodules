@@ -8,6 +8,11 @@
 	url = https://github.com/szymanskir/featureflag
 	shallow = true
 	registered = true
+[submodule "hackeRnews"]
+	path = hackeRnews
+	url = https://github.com/szymanskir/hackernews
+	shallow = true
+	registered = true
 [submodule "rnbp"]
 	path = rnbp
 	url = https://github.com/szymanskir/rnbp

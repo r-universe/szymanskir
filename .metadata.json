@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "hackeRnews",
+    "oncran": true
+  },
+  {
     "package": "rnbp",
     "oncran": true
   }
