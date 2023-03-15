@@ -1,14 +1,14 @@
 [
   {
-    "package": "featureflag",
-    "oncran": true
-  },
-  {
     "package": "hackeRnews",
     "oncran": true
   },
   {
     "package": "rnbp",
+    "oncran": true
+  },
+  {
+    "package": "featureflag",
     "oncran": true
   }
 ]
